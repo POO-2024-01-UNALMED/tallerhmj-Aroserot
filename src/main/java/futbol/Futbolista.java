@@ -1,3 +1,5 @@
+package futbol;
+
 public abstract class Futbolista implements Comparable<Object> {
 	
 	private String nombre;
