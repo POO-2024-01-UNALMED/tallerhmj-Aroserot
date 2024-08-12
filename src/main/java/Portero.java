@@ -4,7 +4,7 @@ public class Portero extends Futbolista {
 	public byte dorsal;
 
 	public Portero() {
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	public Portero(String nombre, int edad, short golesR, byte dorsal) {
